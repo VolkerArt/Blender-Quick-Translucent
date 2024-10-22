@@ -6,8 +6,10 @@ Hair cards, works for both Cycles and Eevee
 ![Ccyles](https://github.com/user-attachments/assets/8849cb13-aa9f-4cbf-889a-dd9c7b5404c0)
 
 Cloth
+
 Cycles with solidify. Seems faster to render than SSS and sometimes can offer more desireable results
 ![Cycles](https://github.com/user-attachments/assets/77ad4056-b0e0-44ad-bb86-bab539c5e4b0)
+
 Eevee without solidify. Needs to be a plane for Eevee to work right.
 ![Eevee No Solidify](https://github.com/user-attachments/assets/e542d61c-e38d-4172-ae05-46678d4b69c1)
 
