@@ -17,6 +17,7 @@ Eevee without solidify. Needs to be a plane for Eevee to work right.
 ![Eevee No Solidify](https://github.com/user-attachments/assets/e542d61c-e38d-4172-ae05-46678d4b69c1)
 
 How it should be set up. **Value plugged into Thickness is extremely important for Eevee Next, make sure it's set to 0**
+**IMPORTANT UPDATE** If you have a mesh with thickness you may want to try and set the value to the approximate thickness of the mesh, or try a very low value like 0.001. I tested this with clothes and the result was very good.
 
 ![2024-10-22_22-35](https://github.com/user-attachments/assets/38894c20-a655-4fa6-8366-c2563ec6e3de)
 
